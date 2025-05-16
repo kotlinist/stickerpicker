@@ -2,7 +2,11 @@
   "packs": [
     "VLozhkin.json",
     "Suspicious_TSPU.json",
-    "PEPEtop.json"
+    "PEPEtop.json",
+    "ntr01.json",
+    "tfwtoointelligent.json",
+    "wxk_fav_linux.json",
+    "LovelyEngineer.json"
   ],
   "homeserver_url": "https://kotlinist.pro"
 }
