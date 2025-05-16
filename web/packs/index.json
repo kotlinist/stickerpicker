@@ -1,0 +1,8 @@
+{
+  "packs": [
+    "VLozhkin.json",
+    "Suspicious_TSPU.json",
+    "PEPEtop.json"
+  ],
+  "homeserver_url": "https://kotlinist.pro"
+}
